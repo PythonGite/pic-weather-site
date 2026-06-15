@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Support - PIC Weather</title>
+</head>
+<body>
+  <h1>Support</h1>
+
+  <p>If you need support for PIC Weather, please contact:</p>
+
+  <p>Email: your-email@example.com</p>
+
+  <h2>App Information</h2>
+  <p>App name: PIC Weather</p>
+  <p>Purpose: operational weather and mission-support app for drone pilots.</p>
+
+  <h2>Important Notice</h2>
+  <p>PIC Weather supports operational planning. The pilot remains responsible for checking official weather sources, local aviation regulations, airspace restrictions, and final flight safety conditions before every mission.</p>
+</body>
+</html>
